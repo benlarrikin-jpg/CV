@@ -1,0 +1,26 @@
+body {
+    background-color: aquamarine;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: blueviolet;
+    border-width: 5px;
+    width: 10%;
+    opacity: 70%;
+}
+h3 {
+    color: deeppink;
+}
+#heading {
+    color: brown;
+}
+.Passport {
+    background-color: blue;
+}
+.circular {
+    border-radius: 100%;
+}
+img:hover {
+    background-color: blue;
+}
